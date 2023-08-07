@@ -14,13 +14,17 @@ We recommend using Lively Wallpaper, cause' it's free and we know what it works 
 
 2. Download the latest release from [the releases tab](https://github.com/HassyTeam/HAssembly-Wallpaper/releases)
 
-3. Open Lively Wallpaper and click the **+** button like shown below ![image of the button](/guideimgs/guide1.png)
+3. Open Lively Wallpaper and click the **+** button like shown below 
+![image of the button](/guideimgs/guide1.png)
 
-4. Click the **"Open"** button ![image of the button](/guideimgs/guide2.png)
+4. Click the **"Open"** button 
+![image of the button](/guideimgs/guide2.png)
 
-5. Select the downloaded zip file. The file name **WILL** be diffrent to you, so no panic ![image of the button](/guideimgs/guide3eng.png)
+5. Select the downloaded zip file. The file name **WILL** be diffrent to you, so no panic 
+![image of the button](/guideimgs/guide3eng.png)
 
-6. Congratulations! You have now succesfully downloaded the wallpaper! Now just set it as your wallpaper on Lively. ![image of the button](/guideimgs/guide4.png)
+6. Congratulations! You have now succesfully downloaded the wallpaper! Now just set it as your wallpaper on Lively. 
+![image of the button](/guideimgs/guide4.png)
 
 # Taustakuvan käyttö LIvely Walpaperilla (FI)
 
@@ -30,10 +34,14 @@ Suosittelemme Lively Wallpaperin käyttöä, koska se on ilmainen ja tiedämme e
 
 2. Lataa uusin julkaisu taustakuvasta [julkaisut tabillä](https://github.com/HassyTeam/HAssembly-Wallpaper/releases)
 
-3. Avaa Lively Wallpaper ja paina **+** nappia kuten alhaalla näytetty ![image of the button](/guideimgs/guide1.png)
+3. Avaa Lively Wallpaper ja paina **+** nappia kuten alhaalla näytetty 
+![image of the button](/guideimgs/guide1.png)
 
-4. Paina **"Open"** nappia ![image of the button](/guideimgs/guide2.png)
+4. Paina **"Open"** nappia 
+![image of the button](/guideimgs/guide2.png)
 
-5. Valitse lataamasi zip tiedosto. Tiedoston nimi **TULEE** olemaan eri sinun kohdallasi, joten älä stressaa siitä ![image of the button](/guideimgs/guide3eng.png)
+5. Valitse lataamasi zip tiedosto. Tiedoston nimi **TULEE** olemaan eri sinun kohdallasi, joten älä stressaa siitä 
+![image of the button](/guideimgs/guide3eng.png)
 
-6. Onnitelut! Olet nyt onnistuneesti ladannut taustakuvamme! Aseta se nyt vain taustakuvaksesi Lively Wallpaperissä. ![image of the button](/guideimgs/guide4.png)
+6. Onnitelut! Olet nyt onnistuneesti ladannut taustakuvamme! Aseta se nyt vain taustakuvaksesi Lively Wallpaperissä. 
+![image of the button](/guideimgs/guide4.png)
