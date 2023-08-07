@@ -45,3 +45,11 @@ Suosittelemme Lively Wallpaperin käyttöä, koska se on ilmainen ja tiedämme e
 
 6. Onnitelut! Olet nyt onnistuneesti ladannut taustakuvamme! Aseta se nyt vain taustakuvaksesi Lively Wallpaperissä. 
 ![image of the button](/guideimgs/guide4.png)
+
+
+# Credit:
+
+1. [DVD logo code](https://github.com/AlessioMaddaluno/bouncing-dvd-logo/)
+2. [Picture of Lupu](https://moontv.fi/arkisto/tapahtumat/)
+3. ["Tilaa eedspeaks" pic](https://image.spreadshirtmedia.net/image-server/v1/compositions/T56A2PA4115PT17X7Y43D164487325W23489H21287/views/1,width=650,height=650,appearanceId=2.jpg)
+4. [Gandalf GIF](https://tenor.com/en-GB/view/gandalf-sax-guy-gif-18663354)
