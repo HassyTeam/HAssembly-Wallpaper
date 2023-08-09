@@ -1,5 +1,5 @@
 # HAssembly-Wallpaper
-## A live wallpaper made by Hassy Team™
+## A live Assembly style wallpaper made by Hassy Team™
 
 # Description
 This repo has a wallpaper for use in the Finnish LAN and demoparty Assembly. **THIS IS NOT A OFFICIAL WALLPAPER AND IT'S NOT MADE NOR AFFILIATED WITH Assembly Organizing Oy**
