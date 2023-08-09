@@ -4,7 +4,7 @@
 # Description
 This repo has a wallpaper for use in the Finnish LAN and demoparty Assembly. **THIS IS NOT A OFFICIAL WALLPAPER AND IT'S NOT MADE NOR AFFILIATED WITH Assembly Organizing Oy**
 
-Suomenkielinen ohje <a href="#finnish">tästä</a> tai scrollaa alas.
+Suomenkielinen ohje <a href="#finnish">tästä</a>. (tai voit myös scrollata alas)
 
 # Using this wallpaper w/ Lively Wallpaper (ENG)
 
@@ -26,7 +26,9 @@ We recommend using Lively Wallpaper, cause' it's free and we know what it works 
 6. Congratulations! You have now succesfully downloaded the wallpaper! Now just set it as your wallpaper on Lively. 
 ![image of the button](/guideimgs/guide4.png)
 
+<hr>
 <div id="finnish"></div>
+
 # Taustakuvan käyttö Lively Walpaperilla (FI)
 
 Suosittelemme Lively Wallpaperin käyttöä, koska se on ilmainen ja tiedämme että tämä taustakuva toimii sen kanssa. Tässä nopea opas kuinka asentaa, ja käyttää tätä taustakuvaa.
