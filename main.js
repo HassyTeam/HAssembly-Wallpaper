@@ -22,9 +22,8 @@ let jokukivanimibackgroundille = {
 (function main(){
     canvas = document.getElementById("tv-screen");
     ctx = canvas.getContext("2d");
-    dvd.img.src = 'gandalf-sax-guy.gif';
+    dvd.img.src = 'gandaalf-old.png';
     jokukivanimibackgroundille.img.src = 'wtf.png'
-    console.log("TOIMI NY PERKELE")
     //Draw the "tv screen"
     canvas.width  = window.innerWidth;
     canvas.height = window.innerHeight;
